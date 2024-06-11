@@ -3,7 +3,6 @@ import { styled, alpha } from "@mui/material/styles";
 import Menu from "@mui/material/Menu";
 import MenuItem from "@mui/material/MenuItem";
 import { MenuProps } from "@mui/material/Menu";
-import { MenuItemProps } from "@mui/material/MenuItem";
 
 const StyledMenu = styled((props: MenuProps) => (
   <Menu
